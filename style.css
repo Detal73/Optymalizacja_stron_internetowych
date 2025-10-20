@@ -24,6 +24,7 @@ nav ul li a { color: #fff; text-decoration: none; }
 
 .hero {
     background: #999999;
+    color: black;
     padding: 80px 20px;
     text-align: center;
 }
