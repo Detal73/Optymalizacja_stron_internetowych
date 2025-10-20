@@ -28,7 +28,7 @@ nav ul li a { color: #fff; text-decoration: none; }
     padding: 80px 20px;
     text-align: center;
 }
-.hero h2 { font-size: 32px; margin-bottom: 20px; }
+.hero h2 {margin-bottom: 20px; }
 
 .about, .services, .blog, .portfolio, .contact {
     padding: 40px 20px;
