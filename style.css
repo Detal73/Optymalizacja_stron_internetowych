@@ -2,12 +2,12 @@ body {
 	max-width: 800px;
 	line-height: 1.6;
 	font-size: 18px;
-  padding: 0 10 px;
-  font-family: Arial, sans-serif; 
-  line-height: 1.6; 
-  margin: 10px auto;
-  color: #444;
-  background-color: #EEEEEE;
+    padding: 0 10 px;
+    font-family: Arial, sans-serif; 
+    line-height: 1.6; 
+    margin: 10px auto;
+    color: #444;
+    background-color: #EEEEEE;
 }
 
 header {
@@ -52,4 +52,8 @@ footer {
     color: #fff;
     padding: 20px;
     text-align: center;
+}
+
+a {
+    color: rgb(94, 94, 255);
 }
