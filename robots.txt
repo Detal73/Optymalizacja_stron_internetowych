@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /wp-admin/
+Disallow: /cgi-bin/
+Disallow: /private/
+Disallow: /*.pdf$
+Disallow: /*.doc$
+
+# Specyficzne dla Googlebot i innych
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Sitemap (dostosuj do swojej domeny)
+Sitemap: https://twojblog.pl/sitemap.xml
