@@ -15,4 +15,4 @@ User-agent: Bingbot
 Allow: /
 
 # Sitemap (dostosuj do swojej domeny)
-Sitemap: https://detal73.github.io/Optymalizacja_stron_internetowych//sitemap.xml
+Sitemap: https://detal73.github.io/Optymalizacja_stron_internetowych/sitemap.xml
